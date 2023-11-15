@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "ServerRoot\Server.csproj", "{137657BA-18CB-43F9-BA61-2C6FB81A6367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEprotal", "PEprotal\PEprotal.csproj", "{BF55A022-B192-4C8D-8BCF-E1D928D2601D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137657BA-18CB-43F9-BA61-2C6FB81A6367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137657BA-18CB-43F9-BA61-2C6FB81A6367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137657BA-18CB-43F9-BA61-2C6FB81A6367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137657BA-18CB-43F9-BA61-2C6FB81A6367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF55A022-B192-4C8D-8BCF-E1D928D2601D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF55A022-B192-4C8D-8BCF-E1D928D2601D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF55A022-B192-4C8D-8BCF-E1D928D2601D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF55A022-B192-4C8D-8BCF-E1D928D2601D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDFC7066-4582-4CC9-A9FF-FB45F0CA4063}
+	EndGlobalSection
+EndGlobal

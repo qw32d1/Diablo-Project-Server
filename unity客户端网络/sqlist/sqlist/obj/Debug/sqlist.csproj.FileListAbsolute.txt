@@ -1,0 +1,9 @@
+E:\unity客户端网络\sqlist\sqlist\obj\Debug\sqlist.csproj.AssemblyReference.cache
+E:\unity客户端网络\sqlist\sqlist\obj\Debug\sqlist.csproj.CoreCompileInputs.cache
+E:\unity客户端网络\sqlist\sqlist\bin\Debug\sqlist.exe.config
+E:\unity客户端网络\sqlist\sqlist\bin\Debug\sqlist.exe
+E:\unity客户端网络\sqlist\sqlist\bin\Debug\sqlist.pdb
+E:\unity客户端网络\sqlist\sqlist\bin\Debug\MySql.Data.dll
+E:\unity客户端网络\sqlist\sqlist\obj\Debug\sqlist.csproj.CopyComplete
+E:\unity客户端网络\sqlist\sqlist\obj\Debug\sqlist.exe
+E:\unity客户端网络\sqlist\sqlist\obj\Debug\sqlist.pdb

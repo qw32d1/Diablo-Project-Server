@@ -1,0 +1,11 @@
+E:\unity客户端网络\ServerRoot\PEprotal\bin\Debug\PEprotal.dll
+E:\unity客户端网络\ServerRoot\PEprotal\bin\Debug\PEprotal.pdb
+E:\unity客户端网络\ServerRoot\PEprotal\bin\Debug\PESocket.dll
+E:\unity客户端网络\ServerRoot\PEprotal\bin\Debug\PESocket.pdb
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEprotal.csproj.AssemblyReference.cache
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEprotal.csproj.CoreCompileInputs.cache
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEprotal.csproj.CopyComplete
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEprotal.dll
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEprotal.pdb
+E:\untiy(project)\Diablo_project\Assets\Net\PEprotal.dll
+E:\untiy(project)\Diablo_project\Assets\Net\PEprotal.pdb

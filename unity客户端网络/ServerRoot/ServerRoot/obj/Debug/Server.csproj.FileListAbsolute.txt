@@ -1,0 +1,17 @@
+E:\unity客户端网络\ServerRoot\ServerRoot\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\unity客户端网络\ServerRoot\ServerRoot\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\unity客户端网络\ServerRoot\ServerRoot\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\unity客户端网络\ServerRoot\ServerRoot\obj\Debug\Server.csproj.CopyComplete
+E:\unity客户端网络\ServerRoot\ServerRoot\obj\Debug\ServerRoot.exe
+E:\unity客户端网络\ServerRoot\ServerRoot\obj\Debug\ServerRoot.pdb
+E:\untiy(project)\Diablo_project\Assets\Net\ServerRoot.exe.config
+E:\untiy(project)\Diablo_project\Assets\Net\ServerRoot.exe
+E:\untiy(project)\Diablo_project\Assets\Net\ServerRoot.pdb
+E:\unity客户端网络\ServerRoot\ServerRoot\ServerRoot.exe.config
+E:\unity客户端网络\ServerRoot\ServerRoot\ServerRoot.exe
+E:\unity客户端网络\ServerRoot\ServerRoot\ServerRoot.pdb
+E:\unity客户端网络\ServerRoot\ServerRoot\PEprotal.dll
+E:\unity客户端网络\ServerRoot\ServerRoot\PESocket.dll
+E:\unity客户端网络\ServerRoot\ServerRoot\PEprotal.pdb
+E:\unity客户端网络\ServerRoot\ServerRoot\PESocket.pdb
+E:\unity客户端网络\ServerRoot\ServerRoot\MySql.Data.dll

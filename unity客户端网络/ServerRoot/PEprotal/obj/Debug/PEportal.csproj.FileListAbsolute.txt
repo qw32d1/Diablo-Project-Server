@@ -1,0 +1,7 @@
+E:\untiy(project)\Diablo_project\Assets\Net\PEprotal.dll
+E:\untiy(project)\Diablo_project\Assets\Net\PEprotal.pdb
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEportal.csproj.AssemblyReference.cache
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEportal.csproj.CoreCompileInputs.cache
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEportal.csproj.CopyComplete
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEprotal.dll
+E:\unity客户端网络\ServerRoot\PEprotal\obj\Debug\PEprotal.pdb
